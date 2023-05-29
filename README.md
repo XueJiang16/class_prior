@@ -55,7 +55,7 @@ If you find our codebase useful, please cite our work:
 ```
 @inproceedings{jiang2023detecting,
         title={Detecting Out-of-distribution Data through In-distribution Class Prior}, 
-        author={Xue Jiang and Feng Liu and Zhen Fang and Hong Chen and Tongliang Liu and Feng Zheng and 				Bo Han},
+        author={Xue Jiang and Feng Liu and Zhen Fang and Hong Chen and Tongliang Liu and Feng Zheng and Bo Han},
         booktitle = {ICML},
         year = {2023}
 }
